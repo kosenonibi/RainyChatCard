@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "text": "Hey ! C'est ton jour spécial aujourd'hui ! 🎂",
+    "sender": "Marie",
+    "color": "bg-blue-500",
+    "delay": 1000
+  },
+  {
+    "id": 2,
+    "text": "Joyeux anniversaire ! Profite bien de cette journée !",
+    "sender": "Thomas",
+    "color": "bg-cyan-500",
+    "delay": 3000
+  },
+  {
+    "id": 3,
+    "text": "Happy Birthday ! 🎉 Plein de bonheur pour toi !",
+    "sender": "Sophie",
+    "color": "bg-indigo-500",
+    "delay": 5000
+  },
+  {
+    "id": 4,
+    "text": "Bon anniv' ! Que cette année soit incroyable ! ✨",
+    "sender": "Lucas",
+    "color": "bg-sky-500",
+    "delay": 7000
+  },
+  {
+    "id": 5,
+    "text": "Joyeux anniversaire ! Tu es quelqu'un de formidable ! 💙",
+    "sender": "Emma",
+    "color": "bg-blue-600",
+    "delay": 9000
+  },
+  {
+    "id": 6,
+    "text": "🎊 JOYEUX ANNIVERSAIRE ! 🎊\nQue tous tes rêves se réalisent ! On est tous là pour toi aujourd'hui ! 🎂🎈",
+    "sender": "Toute l'équipe",
+    "color": "bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600",
+    "delay": 11500,
+    "final": true
+  }
+]
