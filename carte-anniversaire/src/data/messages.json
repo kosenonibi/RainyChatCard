@@ -1,49 +1,51 @@
 [
   {
     "id": 1,
-    "text": "Hey ! C'est ton jour spécial aujourd'hui ! 🎂",
-    "sender": "Marie",
-    "avatar": "marie.jpg",
+    "text": "friends Friends FRIENDS",
+    "sender": "Kosen",
+    "avatar": "kosen.jpg",
     "color": "bg-blue-500",
     "delay": 1000
   },
   {
     "id": 2,
-    "text": "Joyeux anniversaire ! Profite bien de cette journée !",
-    "sender": "Thomas",
-    "avatar": "thomas.jpg",
+    "text": "rainy Rainy RAINY",
+    "sender": "Lottie",
+    "avatar": "",
     "color": "bg-cyan-500",
     "delay": 3000
   },
   {
     "id": 3,
-    "text": "Happy Birthday ! 🎉 Plein de bonheur pour toi !",
-    "sender": "Sophie",
-    "avatar": "sophie.jpg",
+    "text": "Happy Birthday !",
+    "sender": "Anski",
+    "avatar": "",
     "color": "bg-indigo-500",
-    "delay": 5000
+    "delay": 5000,
+    "image": "birthday.jpg"
   },
   {
     "id": 4,
-    "text": "Bon anniv' ! Que cette année soit incroyable ! ✨",
-    "sender": "Lucas",
-    "avatar": "lucas.jpg",
+    "text": "Happy Birthday !",
+    "sender": "Raspy",
+    "avatar": "",
     "color": "bg-sky-500",
     "delay": 7000
   },
   {
     "id": 5,
-    "text": "Joyeux anniversaire ! Tu es quelqu'un de formidable ! 💙",
-    "sender": "Emma",
-    "avatar": "emma.jpg",
+    "text": "Happy Birthday !",
+    "sender": "Wrath",
+    "avatar": "",
     "color": "bg-blue-600",
-    "delay": 9000
+    "delay": 9000,
+    "image": "source.gif"
   },
   {
     "id": 6,
-    "text": "🎊 JOYEUX ANNIVERSAIRE ! 🎊\nQue tous tes rêves se réalisent ! On est tous là pour toi aujourd'hui ! 🎂🎈",
-    "sender": "Toute l'équipe",
-    "avatar": "team.jpg",
+    "text": "🎊 Happy Birthday ! 🎊\nTEST TEST TEST \uD83D\uDC99",
+    "sender": "Everyone",
+    "avatar": "",
     "color": "bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600",
     "delay": 11500,
     "final": true

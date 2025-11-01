@@ -1,5 +1,7 @@
+// carte-anniversaire/src/components/MessageBubble.tsx
 import React from 'react';
 import { motion } from 'framer-motion';
+import { highlightWords } from '../utils/HighlightWords';
 
 interface Message {
   id: number;
@@ -9,6 +11,8 @@ interface Message {
   color: string;
   delay: number;
   final?: boolean;
+  image?: string;
+  isEasterEgg?: boolean;
 }
 
 interface MessageBubbleProps {
@@ -54,15 +58,41 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
       <div className="flex-1">
         <div className="flex items-center gap-2 mb-1">
           <span className="text-blue-200 text-sm font-semibold">{message.sender}</span>
+          {message.isEasterEgg && (
+            <span className="text-xs bg-purple-500/50 px-2 py-0.5 rounded-full">
+              🔓 Secret déverrouillé !
+            </span>
+          )}
         </div>
         <div
           className={`${message.color} ${
-            message.final
+            message.final || message.isEasterEgg
               ? 'text-white text-lg md:text-xl font-bold shadow-2xl shadow-blue-500/50 p-6 rounded-3xl'
               : 'bg-opacity-90 text-white p-4 rounded-2xl rounded-tl-none'
           } max-w-md`}
         >
-          <div className="whitespace-pre-line">{message.text}</div>
+          <div className="whitespace-pre-line">
+            {highlightWords(message.text)}
+          </div>
+
+          {/* Image optionnelle */}
+          {message.image && (
+            <motion.div
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: 0.3 }}
+              className="mt-4 rounded-xl overflow-hidden shadow-lg"
+            >
+              <img
+                src={`/assets/${message.image}`}
+                alt="Message attachment"
+                className="w-full h-auto"
+                onError={(e) => {
+                  e.currentTarget.style.display = 'none';
+                }}
+              />
+            </motion.div>
+          )}
         </div>
       </div>
     </motion.div>
