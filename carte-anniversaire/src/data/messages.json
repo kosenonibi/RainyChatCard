@@ -76,11 +76,20 @@
   },
   {
     "id": 10,
+    "text": "Merry Birthmas Rainy!!!",
+    "sender": "Liger",
+    "avatar": "liger.jpg",
+    "color": "bg-sky-600",
+    "delay": 19000,
+    "image": "cat.gif"
+  },
+  {
+    "id": 11,
     "text": "🎊 Happy Birthday ! 🎊\nTEST TEST TEST \uD83D\uDC99",
     "sender": "Everyone",
     "avatar": "",
     "color": "bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600",
-    "delay": 19000,
+    "delay": 21000,
     "final": true
   }
 ]
