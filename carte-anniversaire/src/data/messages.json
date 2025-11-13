@@ -1,53 +1,86 @@
 [
   {
     "id": 1,
-    "text": "friends Friends FRIENDS",
-    "sender": "Kosen",
-    "avatar": "kosen.jpg",
+    "text": "Happy birthday demonspawn !!!",
+    "sender": "Wrath",
+    "avatar": "wrath.jpeg",
     "color": "bg-blue-500",
     "delay": 1000
   },
   {
     "id": 2,
-    "text": "rainy Rainy RAINY",
-    "sender": "Lottie",
-    "avatar": "",
+    "text": "Happy Birthday to my favourite raindrop !!!!!\nYou're one of the sweetest people I know.\nHope you have a day with lots of rest and joy like you deserve. Love you lots!",
+    "sender": "Mii",
+    "avatar": "mii.jpg",
     "color": "bg-cyan-500",
     "delay": 3000
   },
   {
     "id": 3,
-    "text": "Happy Birthday !",
-    "sender": "Anski",
+    "text": "It's that time again.\nCongrats on making it this far!",
+    "sender": "Floey",
     "avatar": "",
     "color": "bg-indigo-500",
     "delay": 5000,
-    "image": "birthday.jpg"
+    "image": "uma.gif"
   },
   {
     "id": 4,
-    "text": "Happy Birthday !",
-    "sender": "Raspy",
-    "avatar": "",
+    "text": "Happy Birthday Rainyy!\nWishing you the best with many cozy rainy days ahead!",
+    "sender": "Luvylise",
+    "avatar": "lulu.jpg",
     "color": "bg-sky-500",
     "delay": 7000
   },
   {
     "id": 5,
-    "text": "Happy Birthday !",
-    "sender": "Wrath",
-    "avatar": "",
+    "text": "happy birthday Rainy, I’m really hoping you’re having a great one and that you’re getting lots of rests and good foods!!\nThank you for being there for me and being an awesome friend!!",
+    "sender": "Homura",
+    "avatar": "homura.jpg",
     "color": "bg-blue-600",
     "delay": 9000,
-    "image": "source.gif"
+    "image": "pikachu.gif"
   },
   {
     "id": 6,
+    "text": "happeh borth rainy! You have come to see a new day!\nEven though you do not love foxes at all I still cherish you as a fren!\nWe need to kidnap Kosen together to torture him- Weissu",
+    "sender": "Weiss",
+    "avatar": "weiss.jpg",
+    "color": "bg-cyan-600",
+    "delay": 11000
+  },
+  {
+    "id": 7,
+    "text": "Happy Birthday Rainyyyyyyy!\nWishing the most awesome and bestest for you!\nWith another year comes another page in your story, and may it bring lots of great things and fun surprises!",
+    "sender": "Nero",
+    "avatar": "nero.jpg",
+    "color": "bg-indigo-600",
+    "delay": 13000,
+    "image": "dog.gif"
+  },
+  {
+    "id": 8,
+    "text": "Happy Birthday Bestieeee, keep being awesome and keep up that amazing smile!!\nRemember always treat yourself nice and being an awesome tomodachi!!",
+    "sender": "Kenji",
+    "avatar": "kenji.jpg",
+    "color": "bg-sky-600",
+    "delay": 15000
+  },
+  {
+    "id": 9,
+    "text": "Hi Rainy!!! My favorite raindrop that I totally did not murder and is spreading lies about this— \n\nI wish you have an amazing day!! I love you so much and I cant believe we've been friends for this long! I want to let you know how proud I am of you. You've grown so much from the person I met and I can see that youre continuing to grow even more. \n\nI know things are weird and scary and uncertain sometimes and things can be disheartening, but I want you to know that I see all the effort you put in and while things have been hectic as of the moment schedule wise, please know that I'm always rooting for you! \n\nI lab u~ YA NEEEEEEEERD~",
+    "sender": "Anski",
+    "avatar": "anski.jpg",
+    "color": "bg-sky-600",
+    "delay": 17000
+  },
+  {
+    "id": 10,
     "text": "🎊 Happy Birthday ! 🎊\nTEST TEST TEST \uD83D\uDC99",
     "sender": "Everyone",
     "avatar": "",
     "color": "bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600",
-    "delay": 11500,
+    "delay": 19000,
     "final": true
   }
 ]

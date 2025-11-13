@@ -60,7 +60,7 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
           <span className="text-blue-200 text-sm font-semibold">{message.sender}</span>
           {message.isEasterEgg && (
             <span className="text-xs bg-purple-500/50 px-2 py-0.5 rounded-full">
-              🔓 Secret déverrouillé !
+              🔓 Secret unlocked !
             </span>
           )}
         </div>

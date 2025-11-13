@@ -6,9 +6,6 @@ const HIGHLIGHT_WORDS: Record<string, string> = {
     'friends': 'text-yellow-300 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold inline-block animate-bounce',
     'Friends': 'text-yellow-300 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold inline-block animate-bounce',
     'FRIENDS': 'text-yellow-300 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold text-xl inline-block animate-bounce',
-    'rainy': 'drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold inline-block animate-bounce',
-    'Rainy': 'drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold inline-block animate-bounce',
-    'RAINY': 'drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] font-bold text-xl inline-block animate-bounce',
     '💙': 'drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] inline-block animate-pulse',
 };
 

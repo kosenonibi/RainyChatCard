@@ -1,20 +1,8 @@
 [
   {
-    "code": "antoine",
-    "message": {
-      "id": 100,
-      "text": "💙",
-      "sender": "Antoine",
-      "color": "bg-gradient-to-r from-purple-600 via-pink-600 to-red-600",
-      "delay": 0,
-      "final": true,
-      "isEasterEgg": true
-    }
-  },
-  {
     "code": "friends",
     "message": {
-      "id": 101,
+      "id": 100,
       "text": "🎉 SURPRISE ! 🎉",
       "sender": "Your friends",
       "avatar": "team.jpg",

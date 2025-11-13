@@ -154,7 +154,7 @@ const BirthdayCard = () => {
           >
             <div className="bg-purple-600/90 backdrop-blur-md text-white px-8 py-6 rounded-2xl shadow-2xl text-center">
               <div className="text-6xl mb-2">🔓</div>
-              <div className="text-2xl font-bold">Secret Déverrouillé !</div>
+              <div className="text-2xl font-bold">Secret Unlocked !</div>
             </div>
           </motion.div>
         )}
