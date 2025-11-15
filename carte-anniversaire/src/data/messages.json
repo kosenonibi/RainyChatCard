@@ -71,7 +71,7 @@
     "text": "Hi Rainy!!! My favorite raindrop that I totally did not murder and is spreading lies about this— \n\nI wish you have an amazing day!! I love you so much and I cant believe we've been friends for this long! I want to let you know how proud I am of you. You've grown so much from the person I met and I can see that youre continuing to grow even more. \n\nI know things are weird and scary and uncertain sometimes and things can be disheartening, but I want you to know that I see all the effort you put in and while things have been hectic as of the moment schedule wise, please know that I'm always rooting for you! \n\nI lab u~ YA NEEEEEEEERD~",
     "sender": "Anski",
     "avatar": "anski.jpg",
-    "color": "bg-sky-600",
+    "color": "bg-blue-700",
     "delay": 17000
   },
   {
@@ -79,17 +79,33 @@
     "text": "Merry Birthmas Rainy!!!",
     "sender": "Liger",
     "avatar": "liger.jpg",
-    "color": "bg-sky-600",
+    "color": "bg-cyan-700",
     "delay": 19000,
     "image": "cat.gif"
   },
   {
     "id": 11,
-    "text": "🎊 Happy Birthday ! 🎊\nTEST TEST TEST \uD83D\uDC99",
+    "text": "RAINYYYYY, OUR DEAR (definetly not wo'ah cannibal) DROP OF JOY, happy birfdayyyyy.\nHope you're having a great one with lots of gifts, food and rest~. -Kuwa",
+    "sender": "Kura",
+    "avatar": "kura.jpg",
+    "color": "bg-indigo-700",
+    "delay": 21000
+  },
+  {
+    "id": 12,
+    "text": "HAPPY BIRTHDAY RAINYYYYYY !!!\n\nI wish you all the best for your special day.\nYou deserve a year filled with peace, laughter and all the good things you could imagine.\n\nA lot has happened lately, and I know life’s been hectic for you. But remember, I’m always here for you, ready to bring you joy, lighten your load, and cheer you on at any time.\n\nThank you for being here and being you.\nYou're maybe the most awesome rain drop, but also the sunshine everyone needs in their lives.\nHave a great day and enjoy it to the fullest.",
+    "sender": "Kosen",
+    "avatar": "kosen.jpg",
+    "color": "bg-sky-700",
+    "delay": 23000
+  },
+  {
+    "id": 13,
+    "text": "🎊 HAPPY BIRTHDAY ! 🎊\nFrom all your friends, we wish you a wonderful day, and may all your dreams come true.\nWe all love you Rainy \uD83D\uDC99",
     "sender": "Everyone",
     "avatar": "",
     "color": "bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600",
-    "delay": 21000,
+    "delay": 25000,
     "final": true
   }
 ]

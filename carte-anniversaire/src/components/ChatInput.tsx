@@ -65,7 +65,7 @@ export const ChatInput: React.FC<ChatInputProps> = ({
                     exit={{ opacity: 0, y: 10 }}
                     className="absolute bottom-full left-0 mb-2 bg-slate-800/90 text-white text-xs px-3 py-2 rounded-lg backdrop-blur-sm"
                   >
-                    💡 Try typing a name or a special word...
+                    💡 Try typing a special word...
                   </motion.div>
                 )}
               </AnimatePresence>

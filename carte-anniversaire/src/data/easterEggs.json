@@ -3,12 +3,11 @@
     "code": "friends",
     "message": {
       "id": 100,
-      "text": "🎉 SURPRISE ! 🎉",
+      "text": "🎉 SURPRISE ! 🎉\n\nYou are invited to share a meal in the restaurant of your choice with your friends.\nEnjoy this moment to have fun and not think about your responsibilities.\n\nDate and time: to be confirmed",
       "sender": "Your friends",
-      "avatar": "team.jpg",
       "color": "bg-gradient-to-r from-yellow-500 via-orange-500 to-red-500",
-      "delay": 0,
-      "image": "party-invite.jpg",
+      "delay": 1000,
+      "image": "invite.gif",
       "final": true,
       "isEasterEgg": true
     }
